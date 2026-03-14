@@ -1,0 +1,40 @@
+# Environment & secrets
+.env
+.env.*
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Cache & DB
+cache/
+database/
+*.sqlite3
+
+# Reports (generated output)
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

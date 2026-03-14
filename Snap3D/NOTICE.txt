@@ -1,0 +1,11 @@
+Snap3D - XeroD Hackathon Notice
+
+This repository contains a hackathon integration build by Team XeroD.
+
+Ownership and attribution:
+- Team XeroD owns the hackathon-specific integration, orchestration, UI/UX, and project-level modifications added in this workspace.
+- Upstream TripoSR components, model architecture, and original implementation remain attributed to Tripo AI and Stability AI.
+- Upstream and derivative use follows the MIT License terms in LICENSE.
+
+Usage scope for this build:
+- Prepared for c0mpiled x Magicball x Razorpay Hackathon demonstration.

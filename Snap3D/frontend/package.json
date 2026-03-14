@@ -1,6 +1,9 @@
 {
-  "name": "snap3d-frontend",
+  "name": "xerod-snap3d-frontend",
   "version": "1.0.0",
+  "description": "Snap3D frontend by Team XeroD for hackathon demo",
+  "author": "Team XeroD",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
